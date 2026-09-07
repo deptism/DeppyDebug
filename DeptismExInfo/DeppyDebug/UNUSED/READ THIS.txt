@@ -1,0 +1,1 @@
+this folder contains .lua scripts that are less used in the mod, you can drag these .lua scripts to DeppyDebug/scripts and replace the ones you don't like in here
